@@ -14,7 +14,7 @@ The internet is about:
 
 ## Clients/Servers ##
  *1. Two computers (Servers) are connected with each other through the wire.*
-Every server has a unique ***IP-address***. These IP-addresse finds each other. 
+Every server has a unique ***IP-address***. These IP-addresse finds each other.
 Those Ip-addresses have a name e.g. google.com*
 
 *2. We called the servers like our a computer or mobile phone a ***client***.*
@@ -29,6 +29,8 @@ Those Ip-addresses have a name e.g. google.com*
 
 
 ***More info you can find on this [link](https://youtu.be/7_LPdttKXPc)***
+
+*showed the class*
 
 
 
